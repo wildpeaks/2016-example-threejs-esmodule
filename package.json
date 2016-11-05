@@ -9,10 +9,10 @@
     "build": "rollup -c || true"
   },
   "devDependencies": {
-    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-es2015": "^6.18.0",
     "rollup": "^0.36.3",
     "rollup-plugin-babel": "^2.6.1",
     "rollup-plugin-node-resolve": "^2.0.0",
-    "three": "github:wildpeaks/three.js#dev"
+    "three": "github:mrdoob/three.js#dev"
   }
 }
